@@ -1,28 +1,48 @@
 body{
-    background-color: rgb(11, 221, 151);
-    color:azure;
-    font-family: "Bitcount Grid Double", system-ui;
+    background-color: #0bdd97;
+    color: azure;
+
+    font-family: "Story Script", sans-serif;
+
     margin: 0px;
 }
-header{
+
+header {
     font-size: 50px;
-    border-bottom: dashed 5px pink;
     text-align: center;
-    /*margin: 30px;*/
-    padding: 30px;
-    color: rgb(204, 21, 128);
+    border-bottom: solid 5px pink;
+   /* margin: 30px;*/
+   padding: 30px;
+   color:blueviolet
 }
 h1{
     font-size: 30px;
 }
 p{
-    font-size:20px;
+    font-size: 30px;
 }
 
 section{
-background-color: rgb(0, 0, 0);
-padding-bottom: 80px;
-display: flex;
-justify-content: center;
+    background-color: rgb(66, 44, 126);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display:flex;
+    justify-content: center;
 
+}
+
+.chamada-texto{
+    margin-right: 10%;
+}
+section{
+    background-color: rgb(66, 44, 126);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display:flex;
+    justify-content: center;
+
+}
+
+.chamada-texto{
+    margin-right: 10%;
 }
